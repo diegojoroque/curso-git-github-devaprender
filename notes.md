@@ -1,3 +1,19 @@
+#
+
+# Uso do Git no dia-a-dia
+
+![uso-basico-git-dia-a-dia](/images/uso-basico-git-dia-a-dia.jpg)
+
+* ```git clone ‹URL do repositório>``` Comando para baixar ou clonar o código-fonte existente de um repositório remoto (como, por exemplo, o Github).
+* ```git checkout ‹nome da branch>``` Um dos comandos mais usados. É utilizado, na maioria dos casos, para trocar de uma branch para outra.
+* ```git add``` Usado para incluir as alterações de vários arquivos em nosso próximo commit.
+* ```git add <arquivo>``` Usado para incluir as alterações de vários um único arquivo em nosso próximo commit.
+* ```git status``` Fornece todas as informações necessárias sobre a branch atual.
+* ```git commit -m "mensagem do commit"``` Talvez o comando mais usado do Git. Serve como um ponto de verificação no processo de desenvolvimento, onde você adiciona uma breve mensagem e pode voltar a esse ponto mais tarde para verificar, se necessário.
+* ```git push``` Esse comando faz o upload dos seus commits no repositório remoto.
+* ```git pull ‹ repositório remoto>``` Usado para obter as atualizações de um repositório remoto e aplica-las em seu espaço de trabalho local.
+* ```git merge < commit id›``` Esse comando, basicamente, mescla todas as atualizações do seu repositório local com o diretório de trabalho atual.
+
 # Dicas para o arquivo readme
 
 * O que deve conter no arquivo readme:
