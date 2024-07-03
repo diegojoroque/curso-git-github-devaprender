@@ -4,6 +4,6 @@ Repositório criado para o acompanhamento do curso [Git e GitHub](https://www.yo
 
 Consta aqui também, 
 
-[Instagram](https://www.instagram.com/p/CjklARtPKQY/?igsh=MTZtb3ZqYng1cnhobA==)
+[Instagram  ](https://www.instagram.com/p/CjklARtPKQY/?igsh=MTZtb3ZqYng1cnhobA==)
 
 Consta aqui também, dicas para o arquivo readme criadas com base nos artigos [Como criar um README para o seu perfil do GitHub](https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github) e [Como escrever um README incrível no seu Github](https://www.alura.com.br/artigos/escrever-bom-readme).
