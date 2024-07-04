@@ -88,7 +88,7 @@
 
 # Uso do Git no dia-a-dia
 
-![uso-basico-git-dia-a-dia](/images/    uso-basico-git-dia-a-dia.jpg)
+![uso-basico-git-dia-a-dia](/images/uso-basico-git-dia-a-dia.jpg)
 
 * ```git clone ‹URL do repositório>```   Comando para baixar ou clonar o código-fonte existente de um repositório remoto (como, por exemplo, o GitHub).
 * ```git checkout ‹nome da branch>``` Um dos comandos mais usados. É utilizado, na maioria dosram casos, para trocar de uma branch para outra.
