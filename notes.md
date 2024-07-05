@@ -35,8 +35,8 @@
 * ![arquivos-adicionados-versao](/images/arquivos-adicionados-versao.jpg)
 * ```git push``` envia as alterações para o servidor na nuvem.
 * É necessário a definição do local onde será enviado, caso contrário, poderá haver um erro.
-* Nesse caso deve-se acessar o GitHub e criar um repositório. Após criar o repositório através do site do GitHub , basta copiar o link do mesmo (https://github.com/diechojoroque/curso-chit-github-devaprender) para o terminal bash do Git.
-* ```git remote add origin https://github.com/dichgojoroque/cursochgit-github-devaprender``` define o local onde o código será enviado.
+* Nesse caso deve-se acessar o GitHub e criar um repositório. Após criar o repositório através do site do GitHub , basta copiar o link do mesmo (https://github.com/diegojoroque/curso-chit-github-devaprender) para o terminal bash do Git.
+* ```git remote add origin https://github.com/diegojoroque/cursochgit-github-devaprender``` define o local onde o código será enviado.
 * ![git-remote-add-origin](/images/ git-remote-add-origin.jpg)
 * Após isso, execute novamente o comando ```git push```. Ocorrerá um erro porque ainda não foi definida qual a branch ele deverá enviar o código.
 * ![git-push-2](/images/git-push-2.jpg)
