@@ -23,7 +23,7 @@
 * No local do ```“mensagem”```, após o ```–m``` é necessário adicionar a mensagem do porque foi criado essa versão (commit) do código.
 * Ao rodar esse comando pela primeira vez, será pedido que configure o Git na máquina.
 * ```$ git config --global user.email fulanodetal@exemplo.br```
-```$ git config --global user.name "Fulano de Tal"```
+* ```$ git config --global user.name "Fulano de Tal"```
 * Deverão ser utilizados os mesmos dados da conta no GitHub .
 * Essa informação é importante porque o nome ficará atrelado a cada versão (commit) enviado.
 * ![git-push-1]ch/images/git-push-1.jpg)
