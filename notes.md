@@ -26,7 +26,7 @@
 * ```$ git config --global user.name "Fulano de Tal"```
 * Deverão ser utilizados os mesmos dados da conta no GitHub .
 * Essa informação é importante porque o nome ficará atrelado a cada versão (commit) enviado.
-* ![git-push-1]ch/images/git-push-1.jpg)
+* ![git-push-1](/images/git-push-1.jpg)
 * ![git-commit-m-mensagem](/images/git-commit-m-mensagem.jpg)
 * Após rodar o comando ```git commit –m“mensagem”``` serão exibidas as seguintes informações, conforme a imagem abaixo:
 * Nome do commit;
